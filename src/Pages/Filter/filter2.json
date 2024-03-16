@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "mall": "V R mall",
+    "address": "Surat",
+    "rating": "A"
+  },
+  {
+    "id": 2,
+    "mall": "Rahul Raj Mall",
+    "address": "dallas",
+    "rating": "B"
+  },
+  {
+    "id": 3,
+    "mall": "Raj Imperial",
+    "address": "san francisco",
+    "category": "one",
+    "rating": "B"
+  },
+  {
+    "id": 4,
+    "mall": "jane",
+    "address": "denver",
+    "category": "two",
+    "rating": "C"
+  }
+]
